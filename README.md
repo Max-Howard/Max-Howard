@@ -1,4 +1,4 @@
-## Hi there 👋
+## 3rd Year Engineering Undergraduate at the University of Cambridge
 
 <!--
 **Max-Howard/Max-Howard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
